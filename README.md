@@ -1,4 +1,4 @@
-# Project-coursera
+# Project-Coursera
 Welcome to My Website!
 
 This is a modern, responsive web project designed to offer an intuitive and user-friendly experience across all devices. Built with Bootstrap, one of the most powerful front-end frameworks, this site ensures that your content looks great on any screen size, whether it’s a mobile, tablet, or desktop.
