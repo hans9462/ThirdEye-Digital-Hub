@@ -1,7 +1,7 @@
 # Project-Coursera
 Welcome to My Website!
 
-This is a modern, responsive web project designed to offer an intuitive and user-friendly experience across all devices. Built with Bootstrap, one of the most powerful front-end frameworks, this site ensures that your content looks great on any screen size, whether it’s a mobile, tablet, or desktop.
+This is a modern, responsive web project designed to offer an intuitive and user-friendly experience across all devices. Built with Bootstrap, one of the most potent front-end frameworks, this site ensures that your content looks great on any screen size, whether mobile, tablet, or desktop.
 
 Key Features:
 Fully Responsive Layout: The layout automatically adjusts to fit the size of the screen. Whether you're on a mobile device or a large desktop, the design remains clean, organized, and easy to navigate.
@@ -14,7 +14,7 @@ Modern Styling: The website uses Bootstrap’s grid system and Flexbox to create
 
 Social Media Integration: Easily follow your favorite social media channels through well-placed icons.
 
-Quick Links and Footer Information: Visitors can quickly find useful information, including contact details, important links, and newsletter sign-up, all from the footer of the page.
+Quick Links and Footer Information: Visitors can quickly find useful information, including contact details, important links, and newsletter sign-ups, all from the footer of the page.
 
 What is this Project for?
 This website showcases an easy-to-use, flexible layout that adapts to your content needs. Whether you're building a personal portfolio, a business website, or any other kind of online presence, this project provides a solid foundation with responsive design and centered content techniques.
