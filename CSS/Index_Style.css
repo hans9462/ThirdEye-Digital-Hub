@@ -2,10 +2,10 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f8f9fa;
-  }
-  
-  /* Hero Section Styles */
-  .hero-section {
+}
+
+/* Hero Section Styles */
+.hero-section {
     background: url('/img/Imgb') no-repeat center center;
     background-size: cover;
     color: white;
@@ -14,78 +14,77 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-  }
-  
-  .hero-section h1 {
+}
+
+.hero-section h1 {
     font-size: 3.5rem;
-  }
-  
-  /* Feature Section Styles */
-  .feature-section {
+}
+
+/* Feature Section Styles */
+.feature-section {
     background-color: rgb(45 35 88);
     color: white;
     padding: 60px 0;
     text-align: center;
-  }
-  
-  .feature-section h2 {
+}
+
+.feature-section h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
     margin-top: 30px;
-  }
-  
-  .feature-card {
+}
+
+.feature-card {
     background-color: rgb(68, 105, 183);
-  }
-  
-  .feature-card img {
+}
+
+.feature-card img {
     object-fit: cover;
     height: 200px;
-  }
-  
-  /* Footer Section Styles */
-  .footer {
+}
+
+/* Footer Section Styles */
+.footer {
     background-color: #343a40;
     color: white;
     padding: 40px 0;
-  }
-  
-  .footer .footer-links a {
+}
+
+.footer .footer-links a {
     color: #adb5bd;
     text-decoration: none;
     margin-right: 20px;
-  }
-  
-  .footer .footer-links a:hover {
+}
+
+.footer .footer-links a:hover {
     color: #f8f9fa;
-  }
-  
-  .footer .social-icons a {
+}
+
+.footer .social-icons a {
     color: #adb5bd;
     margin: 0 10px;
     font-size: 1.5rem;
-  }
-  
-  .footer .social-icons a:hover {
+}
+
+.footer .social-icons a:hover {
     color: #f8f9fa;
-  }
-  
-  .footer .contact-info p {
+}
+
+.footer .contact-info p {
     margin: 5px 0;
     word-wrap: break-word;
-  }
-  
-  /* Navigation Styles */
-  .nav {
+}
+
+/* Navigation Styles */
+.nav {
     gap: 2px;
-  }
-  
-  .nav-item .nav-link {
+}
+
+.nav-item .nav-link {
     border-radius: 0.5rem;
-  }
-  
-  .nav-item .nav-link.active {
+}
+
+.nav-item .nav-link.active {
     background-color: white;
     color: var(--bs-primary);
-  }
-  
+}
