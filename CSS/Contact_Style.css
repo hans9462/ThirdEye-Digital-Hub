@@ -44,34 +44,6 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #45a049;
 }
-
-/* Footer Section Styles */
-.footer {
-    background-color: #343a40;
-    color: white;
-    padding: 40px 0;
-}
-
-.footer .footer-links a {
-    color: #adb5bd;
-    text-decoration: none;
-    margin-right: 20px;
-}
-
-.footer .footer-links a:hover {
-    color: #f8f9fa;
-}
-
-.footer .social-icons a {
-    color: #adb5bd;
-    margin: 0 10px;
-    font-size: 1.5rem;
-}
-
-.footer .social-icons a:hover {
-    color: #f8f9fa;
-}
-
 /* Media Queries */
 @media (max-width: 768px) {
     .form-container {
