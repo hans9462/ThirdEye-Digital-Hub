@@ -1,13 +1,13 @@
-/* General Body Styles */
+/* Body Styling */
 body {
-    font-family: 'Inter', sans-serif;
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
     background-color: #f8f9fa;
-}
-
-/* Hero Section Styles */
-.hero-section {
-    background: url('/Img/Imgb.gif') no-repeat center center;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background: url('../img/Imgb.gif') no-repeat center center;
     background-size: cover;
     color: white;
     height: 100vh;
@@ -15,31 +15,30 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-}
-
-.hero-section h1 {
+  }
+  
+  .hero-section h1 {
     font-size: 3.5rem;
-}
-
-/* Feature Section Styles */
-.feature-section {
-    background-color: rgb(45 35 88);
+  }
+  
+  /* Feature Section */
+  .feature-section {
+    background-color: #2d2358;
     color: white;
     padding: 60px 0;
     text-align: center;
-}
-
-.feature-section h2 {
+  }
+  
+  .feature-section h2 {
     font-size: 2.5rem;
-    margin-bottom: 20px;
-    margin-top: 30px;
-}
-
-.feature-card {
-    background-color: rgb(68, 105, 183);
-}
-
-.feature-card img {
+    margin-bottom: 40px;
+  }
+  
+  .feature-card {
+    background-color: #4469b7;
+  }
+  
+  .feature-card img {
     object-fit: cover;
     height: 200px;
-}
+  }
