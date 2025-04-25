@@ -7,7 +7,7 @@ body {
 
 /* Hero Section Styles */
 .hero-section {
-    background: url('/img/Imgb') no-repeat center center;
+    background: url('/Img/Imgb.gif') no-repeat center center;
     background-size: cover;
     color: white;
     height: 100vh;
