@@ -7,7 +7,7 @@ body {
   
   /* Hero Section */
   .hero-section {
-    background: url('../img/Imgb.gif') no-repeat center center;
+    background: url('../img/Banner.jpg') no-repeat center center;
     background-size: cover;
     color: #ECAA4D;
     height: 100vh;
@@ -23,7 +23,7 @@ body {
   
   /* Feature Section */
   .feature-section {
-    background-color: #2d2358;
+    /* background-color: #2d2358; */
     color: #ECAA4D;
     padding: 60px 0;
     text-align: center;
